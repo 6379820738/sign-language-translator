@@ -81,7 +81,7 @@ Webcam
 Laptop/Desktop
 
 FRONTEND : 
-``
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -322,4 +322,4 @@ document.getElementById("historyBody")
 
 </body>
 </html>
-``
+```
